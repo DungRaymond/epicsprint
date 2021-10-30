@@ -1,4 +1,5 @@
 {
+  "name": "epicsprint",
   "private": true,
   "scripts": {
     "dev": "next dev",
